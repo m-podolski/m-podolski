@@ -39,3 +39,5 @@ I offer front-end-oriented web design and web development for small-scale sites.
 Feel free to cantact me for further details any time!
 
 ![Be careful with the goto!](./goto.png)
+
+[Comic by xkcd](https://xkcd.com/)
