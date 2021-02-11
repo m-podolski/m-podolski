@@ -37,3 +37,5 @@ I'm a Graphic- and Web-Designer with 4 / 2 years of experience who can create yo
 I offer front-end-oriented web design and web development for small-scale sites. I'm currently working with the Kirby CMS which is a lightweight and super flexible solution for most individual and small business sites. For features that need instant feedback and reactivity I develop Vue components on top as needed.
 
 Feel free to cantact me for further details any time!
+
+![Be careful with the goto!](./goto.png)
