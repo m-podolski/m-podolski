@@ -1,4 +1,4 @@
-### Hi / Hallo / Moin ! 👋
+### `'Hi' && 'Hallo' || 'Moin !'` 👋
 
 <!--
 **m-podolski/m-podolski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,14 +30,38 @@ Here are some ideas to get you started:
 - [linkedin.com/in/m-podolski](https://www.linkedin.com/in/m-podolski)
 - [behance.net/m-podolski](https://www.behance.net/m-podolski)
 
-### What I do
+### About Me
 
-I'm a Graphic- and Web-Designer with 4 / 2 years of experience who can create your visual communication in both printed or digital form and can draw from my knowledge and experience in graphic design when it comes to UI.
+Media Design Assistant with experience as freelancer and employee. Special knowledge in graphic design and web development. Ability to empathize not only with respect towards target groups but also in personal interaction. Currently working on my portfolio while taking a 14-month course in web development (JS, Node, React) at the [Digital Career Institute](https://digitalcareerinstitute.org). Side projects include PHP, Kirby CMS, Vanilla Javascript and Vue.
 
-I offer front-end-oriented web design and web development for small-scale sites. I'm currently working with the Kirby CMS which is a lightweight and super flexible solution for most individual and small business sites. For features that need instant feedback and reactivity I develop Vue components on top as needed.
+### Education
 
-Feel free to cantact me for further details any time!
+10.20 - 02.22
+- **Student web development course, [Digital Career Institute](https://digitalcareerinstitute.org/), Hamburg**
+HTML, CSS, Javascript, React, Node
 
-![Be careful with the goto!](./goto.png)
+2009 - 2011
+- **Apprenticeship Media Design Assistant, [Schulzentrum an der Alwin-Lonke-Straße](http://www.szals.de/), Bremen**
+Communication design, web development, print production
 
-[Comic by xkcd](https://xkcd.com/)
+### Jobs
+
+2019
+- **Media Designer, [Fantec GmbH](http://fantec.de/), Hamburg**
+Product photography, image editing, online marketing / content creation, graphic design
+
+- **Reinzeichner ( freelance ) für [Hogarth Worldwide](https://de.hogarthww.com/), Hamburg**
+Layout, final artwork
+
+- **Media Designer, [Druckcenter Hamburg](https://druckcenter-hamburg.de/), Hamburg**
+Sales, Creation, artwork, print production, advertising technology
+
+2018
+- **Media Designer ( freelance ) for [Essenberger Werbung & Design](https://www.essenberger.de/) / [Marine Mammals Science Education](https://marine-mammals.com/), Husum**
+Wordpress, digital / print design, image editing
+
+2017
+- **Media Designer, [Bremen Institute for Mechanical Engineering](http://www.bime.de/), University of Bremen**
+Digital / print design, web design / -development, photography
+
+*Feel free to cantact me for further details any time!*
