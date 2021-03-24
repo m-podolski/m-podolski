@@ -37,31 +37,13 @@ Media Design Assistant with experience as freelancer and employee. Special knowl
 ### Education
 
 10.20 - 02.22
+
 - **Student web development course, [Digital Career Institute](https://digitalcareerinstitute.org/), Hamburg**
-HTML, CSS, Javascript, React, Node
+  HTML, CSS, Javascript, React, Node
 
 2009 - 2011
+
 - **Apprenticeship Media Design Assistant, [Schulzentrum an der Alwin-Lonke-Straße](http://www.szals.de/), Bremen**
-Communication design, web development, print production
+  Communication design, web development, print production
 
-### Jobs
-
-2019
-- **Media Designer, [Fantec GmbH](http://fantec.de/), Hamburg**
-Product photography, image editing, online marketing / content creation, graphic design
-
-- **Reinzeichner ( freelance ) für [Hogarth Worldwide](https://de.hogarthww.com/), Hamburg**
-Layout, final artwork
-
-- **Media Designer, [Druckcenter Hamburg](https://druckcenter-hamburg.de/), Hamburg**
-Sales, Creation, artwork, print production, advertising technology
-
-2018
-- **Media Designer ( freelance ) for [Essenberger Werbung & Design](https://www.essenberger.de/) / [Marine Mammals Science Education](https://marine-mammals.com/), Husum**
-Wordpress, digital / print design, image editing
-
-2017
-- **Media Designer, [Bremen Institute for Mechanical Engineering](http://www.bime.de/), University of Bremen**
-Digital / print design, web design / -development, photography
-
-*Feel free to cantact me for further details any time!*
+_Feel free to cantact me for further details any time!_
