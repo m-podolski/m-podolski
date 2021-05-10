@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on
 
-- My Personal Website (Kirby CMS, Vue)
+- My Personal Website
 - Digital Carreer Institute Webdev-Course
 
 🌱 I’m currently learning
@@ -32,18 +32,5 @@ Here are some ideas to get you started:
 
 ### About Me
 
-Media Design Assistant with experience as freelancer and employee. Special knowledge in graphic design and web development. Ability to empathize not only with respect towards target groups but also in personal interaction. Currently working on my portfolio while taking a 14-month course in web development (JS, Node, React) at the [Digital Career Institute](https://digitalcareerinstitute.org). Side projects include PHP, Kirby CMS, Vanilla Javascript and Vue.
-
-### Education
-
-10.20 - 02.22
-
-- **Student web development course, [Digital Career Institute](https://digitalcareerinstitute.org/), Hamburg**
-  HTML, CSS, Javascript, React, Node
-
-2009 - 2011
-
-- **Apprenticeship Media Design Assistant, [Schulzentrum an der Alwin-Lonke-Straße](http://www.szals.de/), Bremen**
-  Communication design, web development, print production
-
-_Feel free to cantact me for further details any time!_
+Media Design Assistant with experience as freelancer and employee. Special knowledge in graphic design and web development. Ability to empathize not only with respect towards target groups but also in personal interaction.
+Currently working on my portfolio while taking a 12-month course in web development (JS, Node, React) at the [Digital Career Institute](https://digitalcareerinstitute.org). Side projects include PHP (Kirby CMS) and JS (Vue and Gridsome).
