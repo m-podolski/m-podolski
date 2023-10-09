@@ -21,7 +21,7 @@ Developer and Media Design Assistant with **experience as employee and (part-tim
 #### Resume/CV
 
 - [Bewerbung-Podolski-Lebenslauf-Entwickler.pdf](./Bewerbung-Podolski-Lebenslauf-Entwickler.pdf)
-- [Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf](./Bewerbung-Podolski-Zeugnisse-komprimiert.pdf)
+- [Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf](./Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf)
 
 ### ⚡ Please Note
 
