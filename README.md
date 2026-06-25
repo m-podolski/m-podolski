@@ -10,18 +10,18 @@
 
 ### 💼 Hire
 
-Developer and Media Design Assistant with **experience as employee and (part-time) freelancer**. Special knowledge in **application development** and **graphic design**. Currently I am actively looking for a job.
+Web-Developer with a background in Media Design with **experience as employee and (part-time) freelancer**. Special knowledge in **application development** and **graphic design**. Currently I am actively looking for a job.
 
-🌱 I’m currently learning
+<!-- 🌱 I’m currently learning
 
 - Design Patterns
 - Testing
-- C
+- C -->
 
-#### Resume/CV
+<!-- #### Resume/CV
 
 - [Bewerbung-Podolski-Lebenslauf-Entwickler.pdf](./Bewerbung-Podolski-Lebenslauf-Entwickler.pdf)
-- [Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf](./Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf)
+- [Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf](./Bewerbung-Podolski-Zeugnisse-Entwickler-komprimiert.pdf) -->
 
 ### ⚡ Please Note
 
