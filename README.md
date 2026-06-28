@@ -25,4 +25,4 @@ Web-Developer with a background in Media Design with **experience as employee an
 
 ### ⚡ Please Note
 
-Below in my pinned repositories you find my aplication-relevant selected projects!
+Below in my pinned repositories you find my application-relevant selected projects!
