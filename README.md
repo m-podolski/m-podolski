@@ -10,7 +10,7 @@
 
 ### 💼 Hire
 
-Web-Developer with a background in Media Design with **experience as employee and (part-time) freelancer**. Special knowledge in **application development** and **graphic design**. Currently I am actively looking for a job.
+An IT-oriented career changer with a background in media design and practical experience with Linux, Git, Docker, and web technologies. Through extensive self-directed learning and hands-on projects, I have developed a solid technical foundation. I am now looking to further expand my expertise in IT infrastructure, system administration, and cloud technologies through vocational retraining as an IT Specialist in System Integration.
 
 <!-- 🌱 I’m currently learning
 
